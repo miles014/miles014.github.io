@@ -157,3 +157,7 @@ figure img{
 	width: 100%;
 	border: 1px grey solid;
 }
+
+figure figcaption{
+	text-align: center;
+}
